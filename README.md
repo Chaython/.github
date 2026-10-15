@@ -1,6 +1,6 @@
 # Support Chaython's projects
 
-**Professional portfolio:** [Read my GitHub profile README and project portfolio](PROFILE_README.md) — software projects, contributions, engineering experience, coverage, and LinkedIn certificates.
+**Professional portfolio:** [Read my GitHub profile README and project portfolio](profile/README.md) — software projects, contributions, engineering experience, coverage, and LinkedIn certificates.
 
 Thank you for supporting development and maintenance of my GitHub projects.
 
