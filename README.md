@@ -1,0 +1,23 @@
+# Support Chaython's projects
+
+Thank you for supporting development and maintenance of my GitHub projects.
+
+## Sponsor or donate
+
+- [GitHub Sponsors](https://github.com/sponsors/Chaython)
+- [Patreon](https://patreon.com/Chaython)
+- [Buy Me a Coffee](https://buymeacoffee.com/chaython)
+- [PayPal](https://paypal.me/ChaythonM)
+
+## Cryptocurrency donations
+
+| Asset | Network | Receiving address |
+| --- | --- | --- |
+| Ethereum (ETH) | Ethereum | `0x201B6E0B0282BBAE1592C24f9CbD39009A70F7d7` |
+| Bitcoin (BTC) | Bitcoin | `32o7JmXgFcs4R1SbcLLVKQCRw9KHkhneJi` |
+| Solana (SOL) | Solana | `BDicyUL9zizDeYBLw8oBwotv6jtHotLLQD7Bcqg2atLk` |
+| USDC | **Base** | `0xBeD35dcAd9F1A32459B3C0DF004371EBE939E760` |
+
+**For USDC, use the Base network only.** Sending on another network may result in lost funds. Always verify the receiving address and network before transferring.
+
+This repository contains the [default funding configuration](.github/FUNDING.yml) for my GitHub repositories. Repositories with their own `FUNDING.yml` can override it.
