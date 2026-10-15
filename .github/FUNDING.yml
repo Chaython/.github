@@ -1,0 +1,7 @@
+# Default funding options for repositories owned by Chaython.
+# Individual repositories can override this with their own .github/FUNDING.yml.
+github: Chaython
+patreon: Chaython
+buy_me_a_coffee: chaython
+custom:
+  - "https://paypal.me/ChaythonM"
